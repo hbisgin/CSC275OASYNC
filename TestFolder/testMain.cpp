@@ -8,11 +8,13 @@ using namespace std;
 
 struct Fruit{
    int a, b;
+   string name;
 };
 
 int main()
    {
    Fruit fruit;
    fruit.a = 1;
-   cout<<"Hello World!"<< " "<<fruit.a<<endl;
+   fruit.name="banana";
+   cout<<"Hello World!"<< " "<<fruit.name<<endl;
    }
