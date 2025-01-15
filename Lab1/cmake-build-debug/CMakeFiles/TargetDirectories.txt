@@ -1,0 +1,3 @@
+C:/CPPFiles/Winter24/Lab1/cmake-build-debug/CMakeFiles/Lab1.dir
+C:/CPPFiles/Winter24/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CPPFiles/Winter24/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
