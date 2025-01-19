@@ -1,0 +1,45 @@
+George Washington	VA
+John Adams	MA
+Thomas Jefferson	VA
+James Madison	VA
+James Monroe	VA
+John Quincy Adams	MA
+Andrew Jackson	TN
+Martin Van Buren	NY
+William Henry Harrison	OH
+John Tyler	VA
+James K. Polk	TN
+Zachary Taylor	LA
+Millard Fillmore	NY
+Franklin Pierce	NH
+James Buchanan	PA
+Abraham Lincoln	IL
+Andrew Johnson	TN
+Ulysses S. Grant	OH
+Rutherford B. Hayes	OH
+James Garfield	OH
+Chester A. Arthur	NY
+Grover Cleveland	NY
+Benjamin Harrison	IN
+Grover Cleveland	NY
+William McKinley	OH
+Theodore Roosevelt	NY
+William Howard Taft	OH
+Woodrow Wilson	NJ
+Warren G. Harding	OH
+Calvin Coolidge	MA
+Herbert Hoover	IA
+Franklin D. Roosevelt	NY
+Harry S. Truman	MS
+Dwight D. Eisenhower	KS
+John F. Kennedy	MA
+Lyndon B. Johnson	TX
+Richard M. Nixon	CA
+Gerald R. Ford	MI
+James Carter	GA
+Ronald Reagan	CA
+George H. W. Bush	TX
+William J. Clinton	AR
+George W. Bush	TX
+Barack Obama	IL
+Donald John Trump	NY
